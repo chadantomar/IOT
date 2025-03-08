@@ -13,3 +13,4 @@ How to Setup before write code to configure
 ![WhatsApp Image 2025-03-08 at 12 41 15 AM](https://github.com/user-attachments/assets/5603edf3-22f0-4226-8b14-1bbafa3f5a3b)
 
 **2. Buzzer Module setup**
+![WhatsApp Image 2025-03-08 at 11 19 14 AM](https://github.com/user-attachments/assets/e6c2e34f-8d24-4b31-b139-97b67a7b91fc)
