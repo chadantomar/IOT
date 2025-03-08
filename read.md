@@ -40,8 +40,8 @@ The Distance Adjust here is a potentiometer. You can control the range i.e. from
 the object by changing the value of the potentiometer. 
 An IR sensor has two small LED indicators – Power LED, which is ON the entire time the sensor is ON; the 
 other is the Obstacle LED which detects the object. The Obstacle LED has two states or situations: 
-• ON (Active) when it detects an object. 
-• OFF (Inactive) when it doesn’t detect any object. 
+      • ON (Active) when it detects an object. 
+      • OFF (Inactive) when it doesn’t detect any object. 
 
 ![WhatsApp Image 2025-03-08 at 1 24 29 PM](https://github.com/user-attachments/assets/bf73f81e-a537-43e7-89bf-48fee3932fa3)
 
