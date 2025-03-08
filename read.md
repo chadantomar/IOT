@@ -25,9 +25,12 @@ How to Setup before write code to configure
 **3. IR Module Setup**
 
 
-<img width="202" alt="image" src="https://github.com/user-attachments/assets/958c07d6-8dcc-49f8-b42f-26fdfc670c3c" />
+<img width="221" alt="image" src="https://github.com/user-attachments/assets/e3af1b94-c044-4bc7-805e-bbac8fdc8fcf" />
 
-![Uploading image.png…]()
+
+
+
+
 
 
 
