@@ -26,10 +26,26 @@ How to Setup before write code to configure
 
 
 <img width="221" alt="image" src="https://github.com/user-attachments/assets/e3af1b94-c044-4bc7-805e-bbac8fdc8fcf" />
+IR sensor is a device that uses infrared technology to detect objects or changes in the environment. IR sensors 
+can detect a wide range of physical properties such as temperature, motion and proximity.  
+The white LED here is an IR LED which works as the transmitter 
+and the component next to the IR LED is a photodiode that 
+works as the receiver in the IR sensor. 
+The IR transmitter continuously emits the IR light and the IR 
+receiver keeps on checking for the reflected light. If the light 
+gets reflected back by hitting any object in front it, the IR 
+receiver receives this light. This way the object is detected in 
+the case of the IR sensor. 
+The Distance Adjust here is a potentiometer. You can control the range i.e. from how far you want to detect 
+the object by changing the value of the potentiometer. 
+An IR sensor has two small LED indicators – Power LED, which is ON the entire time the sensor is ON; the 
+other is the Obstacle LED which detects the object. The Obstacle LED has two states or situations: 
+• ON (Active) when it detects an object. 
+• OFF (Inactive) when it doesn’t detect any object. 
 
+![WhatsApp Image 2025-03-08 at 1 24 29 PM](https://github.com/user-attachments/assets/bf73f81e-a537-43e7-89bf-48fee3932fa3)
 
-
-
+<img width="511" alt="image" src="https://github.com/user-attachments/assets/d923f368-2bf2-4a88-95c9-6023916ef8ff" />
 
 
 
