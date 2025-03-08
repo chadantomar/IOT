@@ -19,3 +19,15 @@ How to Setup before write code to configure
 <img width="503" alt="image" src="https://github.com/user-attachments/assets/5f89af7e-c1a3-44e2-b716-1cf188f83b1b" />
 
 ![WhatsApp Image 2025-03-08 at 11 19 14 AM](https://github.com/user-attachments/assets/e6c2e34f-8d24-4b31-b139-97b67a7b91fc)
+
+
+
+**3. IR Module Setup**
+
+
+<img width="202" alt="image" src="https://github.com/user-attachments/assets/958c07d6-8dcc-49f8-b42f-26fdfc670c3c" />
+
+![Uploading image.png…]()
+
+
+
