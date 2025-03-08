@@ -9,6 +9,7 @@ How to Setup before write code to configure
 
   **1. LED Module Setup:**
 
+<img width="508" alt="image" src="https://github.com/user-attachments/assets/8ef530ae-56ba-4eb8-8c55-4df6312ece31" />
   
 ![WhatsApp Image 2025-03-08 at 12 41 15 AM](https://github.com/user-attachments/assets/5603edf3-22f0-4226-8b14-1bbafa3f5a3b)
 
