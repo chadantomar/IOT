@@ -7,7 +7,9 @@ How to Setup before write code to configure
 <img width="426" alt="image" src="https://github.com/user-attachments/assets/4da3b97a-8d12-467f-9888-cd550a3b25b1" />
 
 
-  **LED Module Setup:**
+  **1. LED Module Setup:**
 
   
 ![WhatsApp Image 2025-03-08 at 12 41 15 AM](https://github.com/user-attachments/assets/5603edf3-22f0-4226-8b14-1bbafa3f5a3b)
+
+**2. Buzzer Module setup**
