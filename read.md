@@ -4,6 +4,7 @@
 How to Setup before write code to configure
 1. On Windows download : CP210x_Universal_Windows_Driver to connect your board using window OS
 2. Download Thonny and configure
+<img width="426" alt="image" src="https://github.com/user-attachments/assets/4da3b97a-8d12-467f-9888-cd550a3b25b1" />
 
 
   **LED Module Setup:**
